@@ -1,3 +1,8 @@
 witam 
 tutaj znajduja sie jakies dane
-okokokokokok
+okokokokokoiikasda
++++++++Rozdział 1+++++++++
+git jest systemem kontroli wersji pozwana na zdalne
+pracowanie z dokumentami oraz kodem
+
+git init - inicjalizacja repozytorium
