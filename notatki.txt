@@ -1,6 +1,3 @@
-witam 
-tutaj znajduja sie jakies dane
-okokokokokoiikasda
 +++++++Rozdział 1+++++++++
 git jest systemem kontroli wersji pozwana na zdalne
 pracowanie z dokumentami oraz kodem
